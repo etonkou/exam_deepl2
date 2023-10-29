@@ -24,8 +24,9 @@ La démarche suivie est la suivante :
 Pour plus détails sur le code, se référer au notebook :
 `ASR_FineTune_Transcription_KOULARAMBAYE_TONEDEAG.ipynb`
 
-![][Screenshot_ASR.jpg]
+![Screenshot_ASR.jpg](https://github.com/etonkou/exam_deepl2/blob/main/Screenshot_ASR.jpg)
 **Screenshot_ASR**
+![Screenshot_ASR](https://github.com/etonkou/exam_deepl2/assets/85410307/34cdcbf1-8bea-4626-83da-8061199eb12d)
 
 #
 
