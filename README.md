@@ -24,6 +24,9 @@ La démarche suivie est la suivante :
 Pour plus détails sur le code, se référer au notebook :
 `ASR_FineTune_Transcription_KOULARAMBAYE_TONEDEAG.ipynb`
 
+<img src="Screenshot_ASR.jpg"  
+alt="Screenshot_ASR"  
+style="float: left; margin-right: 10px;" />
 
 #
 
